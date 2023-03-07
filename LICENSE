@@ -19,3 +19,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+Thời hạn: nhiều giấy phép có giá trị trong một khoảng thời gian cụ thể. Điều này bảo vệ người cấp phép nếu giá trị của giấy phép tăng lên, hoặc điều kiện thị trường thay đổi. Nó cũng bảo tồn khả năng thực thi bằng cách đảm bảo rằng không có giấy phép nào vượt quá thời hạn của thỏa thuận.
